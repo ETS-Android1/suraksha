@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "163383556958",
+    "project_id": "round-pen-316703",
+    "storage_bucket": "round-pen-316703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163383556958:android:c9a627ca8c5555b174edcf",
+        "android_client_info": {
+          "package_name": "com.example.suraksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163383556958-omsoq1udrvfldnas3mmt97vbc4tfhi33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suraksha",
+            "certificate_hash": "740003c4ee5d186e9c0e66b4cb1b4005da8cc616"
+          }
+        },
+        {
+          "client_id": "163383556958-vnlj2lfc3vk4ml84cjv2p8rkqn48jlu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-4TnYHhYLu1625Kdv4DJFkx2CEpARFkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163383556958-vnlj2lfc3vk4ml84cjv2p8rkqn48jlu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
